@@ -1,0 +1,28 @@
+To run javascript with vscode first you need to install node.js on (wsl / windows).
+	if you install it on wsl you can run it just by open terminal "ubuntu/any distro" then type "node filename.js".
+
+	if you install it on windows you can run it by terminal "pc/powershell" then type "node filename.js".
+	but you can easly run it with extension "code runner".then klik run button on right top.
+
+- Set up and Install node.js on wsl 2 which easy to run by "node filename.js"
+https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
+
+- How to install and run JavaScript in Visual Studio Code (windows)
+https://linuxhint.com/javascript-visual-studio-code/
+
+- How To Setup VS Code For JavaScript (windows)
+https://theproductiveengineer.net/how-to-setup-vs-code-for-javascript/
+
+- Stackoverflow how to run it.
+https://stackoverflow.com/questions/31778413/run-javascript-in-visual-studio-code
+
+- Install node.js use NVM which you can easily install and manage multiple node.js using i terminal (like in linux/wsl)
+The different between install it manually and using NVM is when you install manual by visit the node.js web 
+you just install it like another program installation but when you wanna update it you should uninstall the
+previos version then install it manually again.
+
+But when you use NVM you can easily intall it just by command and when you wat to update it you can do it just
+by command (multiple install).
+
+The tutorial.
+https://github.com/coreybutler/nvm-windows
